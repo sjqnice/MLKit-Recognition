@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">MLKit-Recognition</string>
+    <string name="main_action">Barcode or text recognition</string>
+    <!--MLKit-->
+    <string name="pref_key_rear_camera_preview_size" translatable="false">rcpvs</string>
+    <string name="pref_key_rear_camera_picture_size" translatable="false">rcpts</string>
+    <string name="pref_key_front_camera_preview_size" translatable="false">fcpvs</string>
+    <string name="pref_key_front_camera_picture_size" translatable="false">fcpts</string>
+    <string name="pref_key_group_recognized_text_in_blocks" translatable="false">grtib</string>
+    <string name="pref_key_show_language_tag" translatable="false">slt</string>
+    <string name="pref_key_show_text_confidence" translatable="false">stc</string>
+    <string name="pref_key_camera_live_viewport" translatable="false">clv</string>
+    <string name="pref_key_info_hide" translatable="false">ih</string>
 </resources>

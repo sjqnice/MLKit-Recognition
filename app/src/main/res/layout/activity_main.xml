@@ -7,9 +7,14 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/btn_scan"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:background="@color/purple_700"
+        android:text="@string/main_action"
+        android:textColor="@color/white"
+        android:textSize="16sp"
+        android:padding="8dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

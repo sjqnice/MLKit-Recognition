@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewfinderView">
+        <attr name="maskColor" format="color"/>
+        <attr name="laserColor" format="color"/>
+        <attr name="scanHintText" format="reference|string"/>
+        <attr name="scanHintTextColor" format="color"/>
+        <attr name="scanHintTextSize" format="dimension"/>
+        <attr name="isFullScreenScan" format="boolean"/>
+        <attr name="scanFrameSizeScale" format="float" />
+        <attr name="laserStyle" format="enum">
+            <enum name="none" value="0"/>
+            <enum name="line" value="1"/>
+            <enum name="grid" value="2"/>
+        </attr>
+        <attr name="gridScanColumn" format="integer"/>
+        <attr name="gridScanHeight" format="integer"/>
+    </declare-styleable>
+</resources>
