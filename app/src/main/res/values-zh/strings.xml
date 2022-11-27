@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="main_action">条形码或文字识别</string>
+    <string name="content_dsp">content Description</string>
+    <string name="bar_code_scan_tip">扫二维码/条形码</string>
+    <string name="dialog_album">相册</string>
+    <string name="bar_code_scan">扫码</string>
+    <string name="bar_code_text_recognize">文字识别</string>
+    <string name="bar_code_enter_code">输入条码</string>
+</resources>

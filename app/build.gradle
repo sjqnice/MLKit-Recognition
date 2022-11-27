@@ -47,5 +47,9 @@ dependencies {
 //    implementation 'com.google.mlkit:text-recognition:16.0.0-beta5'
     implementation 'com.google.mlkit:text-recognition-chinese:16.0.0-beta5'
     implementation 'com.google.guava:guava:31.0.1-android'
+    //工具类
     implementation 'com.blankj:utilcodex:1.31.0'
+    //相册
+    implementation 'com.github.sjqnice:Matisse-Kotlin:1.0.0'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
 }

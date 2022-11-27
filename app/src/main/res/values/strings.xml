@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MLKit-Recognition</string>
+    <string name="app_name" translatable="false">MLKit-Recognition</string>
     <string name="main_action">Barcode or text recognition</string>
     <!--MLKit-->
     <string name="pref_key_rear_camera_preview_size" translatable="false">rcpvs</string>
@@ -11,4 +11,11 @@
     <string name="pref_key_show_text_confidence" translatable="false">stc</string>
     <string name="pref_key_camera_live_viewport" translatable="false">clv</string>
     <string name="pref_key_info_hide" translatable="false">ih</string>
+
+    <string name="content_dsp">content Description</string>
+    <string name="bar_code_scan_tip">QRCode/Barcode Scan</string>
+    <string name="dialog_album">Camera Roll</string>
+    <string name="bar_code_scan">Barcode Scan</string>
+    <string name="bar_code_text_recognize">Text Recognize</string>
+    <string name="bar_code_enter_code">Enter Code</string>
 </resources>

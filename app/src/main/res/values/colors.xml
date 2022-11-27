@@ -7,4 +7,10 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="ms_gray_9d">#9D9D9D</color>
+    <color name="ms_txt_black">#1C1C1C</color>
+    <color name="ms_txt_gray">#565656</color>
+    <color name="ms_pecial_red">#B02418</color>
+    <color name="ms_bg_sub_color">#F0F0F0</color>
 </resources>
